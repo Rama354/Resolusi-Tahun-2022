@@ -4,3 +4,5 @@ WPU RESOLUSI
 2. Kotlin advance level
 3. Swift advance level
 4. Fluent English
+5. Punya minimal 3 aplikasi buatan sendiri berbasis android atau IOS
+6. Aktif di upwork dan freelancer
